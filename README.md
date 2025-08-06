@@ -1,7 +1,7 @@
 # airtable-mcp-server-by-cdata
 CData's Model Context Protocol (MCP) Server for Airtable
 
-:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Airtable (beta)](https://www.cdata.com/download/download.aspx?sku=JAZK-V&type=beta). 
+:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our free [CData MCP Server for Airtable (beta)](https://www.cdata.com/download/download.aspx?sku=JAZM-V&type=beta). 
 ## Purpose
 We created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Airtable supported by the [CData JDBC Driver for Airtable](https://www.cdata.com/drivers/airtable/jdbc).
 
